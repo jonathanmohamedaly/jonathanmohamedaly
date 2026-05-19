@@ -2,7 +2,7 @@
 
 Applied Mathematics & Quantitative Finance
 
-Aspiring Quant Researcher focused on:
+<!-- Ceci est un commentaire Aspiring Quant Researcher focused on:-->
 - stochastic volatility modelling
 - derivatives pricing
 - quantitative research
