@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jonathan Mohamedaly
 
-<!--
-**jonathanmohamedaly/jonathanmohamedaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics & Quantitative Finance
 
-Here are some ideas to get you started:
+Aspiring Quant Researcher focused on:
+- stochastic volatility modelling
+- derivatives pricing
+- quantitative research
+- statistical learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Stack
+Python • C++ • R • NumPy • SciPy • pandas • Quantitative Modelling • Monte Carlo • Optimization • Time Series
+
+## Featured Projects
+### Stochastic Model Calibration
+Calibration of Heston, SABR and Hull-White models to option market data.
+
+### Volatility Forecasting Research
+Comparison of GARCH-family models, implied volatility and realized volatility forecasting.
+
+### Option Pricing Engine (C++)
+Monte Carlo and analytical derivatives pricing framework.
+
